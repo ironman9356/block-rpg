@@ -25,3 +25,5 @@ bot = EconomyBot()
 token = os.getenv("TOKEN")
 
 bot.run(token)
+
+# this comment is to test if the env is added to git or not
